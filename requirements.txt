@@ -1,0 +1,7 @@
+py2exe~=0.13.0.1
+pandas~=2.1.1
+WMI~=1.5.1
+future~=0.18.3
+psutil~=5.9.6
+getmac~=0.9.4
+pandastable~=0.13.1
